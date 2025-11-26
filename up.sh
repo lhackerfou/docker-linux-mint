@@ -1,6 +1,5 @@
 #!/bin/bash
 git add wp-zabbix.sh
-git add info-git
 git add README.md
 git add up.sh
 git add docker.install
