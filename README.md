@@ -1,4 +1,4 @@
-# docker-linix-mint
+# docker-bilan
 document explicatif du tp bilan intermédiaire
 
 attention j'ai réalisé mon tp sur un linux mint, les dépôts ne sont pas les mêmes que sur Debian
